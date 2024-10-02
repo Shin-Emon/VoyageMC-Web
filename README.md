@@ -5,4 +5,4 @@ This is built using [Docusaurus](https://docusaurus.io/).
 
 ## Bugs
 
-Now I've seen no bugs on this website, but if you see any bugs, please make issues and notice me it.
+Now I've never seen any bugs on this website, but if you see any bugs, please make issues and notice me it.
